@@ -1,0 +1,10 @@
+print(f"{5+5*2} - Respeitando regra matemática básica")
+print(f"{6/2} - Divisão normal que pode ser número inteiro ou fracionado")
+print(f"{6//2} - Arredonda o resultado da divisão")
+print(f"{6**2} - Elevado a um número")
+print(f"{6%2} - Resto da divisão")
+print(f"{10**100} - Não há limite para o Python, o tamanho da memória que dita") 
+print(f"{pow(6,2)} - Outra forma de fazer contas elevadas a algo")
+print(f"{25**(1/2)} - Raiz quadrada se faz dessa forma")
+print(f"{'Oi'*5} - Aumentar strings fazendo operações com ela")
+
