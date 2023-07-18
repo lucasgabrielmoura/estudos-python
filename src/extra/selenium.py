@@ -2,7 +2,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-# Inicializa o driver do navegador (no exemplo, estamos utilizando o Chrome)
+# Inicializa o driver do navegador (no exemplo, estamos utilizando o Edge)
 driver = webdriver.Edge()
 
 # Navega até uma página da web
