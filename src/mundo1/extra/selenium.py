@@ -13,7 +13,7 @@ elemento = driver.find_element(By.XPATH,'//input[@id="search"]')
 elemento2 = driver.find_element(By.XPATH,'//button[@id="search-icon-legacy"]')
 
 time.sleep(2)
-elemento.send_keys("Ruud")
+elemento.send_keys("Teste")
 elemento2.click()
 
 time.sleep(2)
